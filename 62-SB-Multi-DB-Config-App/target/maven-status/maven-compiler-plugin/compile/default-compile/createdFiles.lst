@@ -1,0 +1,9 @@
+com\ashokit\Application.class
+com\ashokit\config\BookDBConfig.class
+com\ashokit\ServletInitializer.class
+com\ashokit\user\repository\UserRepository.class
+com\ashokit\rest\DemoRestController.class
+com\ashokit\book\model\Book.class
+com\ashokit\book\repository\BookRepository.class
+com\ashokit\user\model\User.class
+com\ashokit\config\UserDBConfig.class
